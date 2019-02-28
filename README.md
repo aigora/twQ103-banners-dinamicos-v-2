@@ -1,6 +1,6 @@
 ## Titulo del Trabajo
 
-<CREADOR DE BANNERS>
+*CREADOR DE BANNERS*
 
 ## Integrantes del equipo
 
