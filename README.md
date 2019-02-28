@@ -1,11 +1,12 @@
-# Título del trabajo
+## Titulo del Trabajo
 
-Descripción breve del proyecto a realizar (2-3 frases).
+<<CREADOR DE BANNERS>>
 
 ## Integrantes del equipo
 
-Nombres, apellidos, y usuario GitHub de los integrantes del equipo.
+Alonso Sánchez García, Enrique Galán Moreno, AlonsoPercu, EnriqueGalanMoreno.
 
 ## Objetivos del trabajo
 
-Lista de los objetivos que se persiguen con el trabajo propuesto.
+Este trabajo tendrá la función de crear banners poco cotidianos a gusto del usuario que quedará gratamente satisfecho.
+Todos estos banners podrán ser utilizados para publicidad
